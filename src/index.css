@@ -1,0 +1,22 @@
+body {
+    background-image: url("./assets/glassesImage/background.jpg");
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    height:90px;
+    color: #fff;
+    font-weight: 100;
+    background-color: rgba(0, 0, 0, 0.29);
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.options {
+    background-color: white;
+    height: 500px;
+}
+
