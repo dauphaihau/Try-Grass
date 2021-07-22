@@ -1,10 +1,10 @@
-import ChangeGrass from "./Components/ChangeGrass";
+import GlassExercise from "./Components/GlassExercise";
 
 
 function App() {
   return (
     <div className="App">
-      <ChangeGrass/>
+      <GlassExercise/>
     </div>
   );
 }
